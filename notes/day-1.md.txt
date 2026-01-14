@@ -1,0 +1,11 @@
+Day 1 – Programming Foundations
+
+What I learned:
+- Computers follow exact instructions
+- Programs are built from small logical steps
+
+What felt confusing:
+- How folders and Git track files
+
+What I want to learn next:
+- Writing real JavaScript code
